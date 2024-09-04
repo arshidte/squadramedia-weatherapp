@@ -13,7 +13,7 @@ Current location will be fetched while loading the page. Based on that, current 
 
 The locations mentioned in the task are added. The date picker of from and to dates are added. The 30 day limit in date range selection is managed.
 
-As I find the API for giving date range is paid, I couldn't show that result. But, the every codes to show that has written.
+As I found the API for giving date range is paid, I couldn't show that result. But, every code to show that has been written.
 
 So, if the API is changed, that can also be seen.
 
