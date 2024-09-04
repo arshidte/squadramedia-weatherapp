@@ -1,0 +1,24 @@
+.degree {
+  position: relative;
+  display: inline-block;
+  font-size: 1rem;
+}
+
+.degree::after {
+  content: "°";
+  position: absolute;
+  top: -0.5em;
+  right: -0.25em;
+  font-size: 0.75em;
+  line-height: 1;
+}
+
+.main-widget-div {
+  height: 38rem;
+}
+
+@media screen and (max-width: 768px) {
+  .main-widget-div {
+    height: auto;
+  }
+}
